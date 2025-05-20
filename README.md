@@ -8,3 +8,4 @@
 <br>
 [![Static Badge](https://img.shields.io/badge/AIchatOS-1?logo=openai&logoColor=%23000000&logoSize=auto&labelColor=%23FFFFFF&color=%23FFFFFF)
 ](https://cht18.aichatosc1.com/#/chat/1742462198710)
+<br>
