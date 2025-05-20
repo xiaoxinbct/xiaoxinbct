@@ -14,3 +14,6 @@
 <br>
 [![Static Badge](https://img.shields.io/badge/Qt%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3-1?logo=qt&logoColor=%2323C22A&logoSize=auto&labelColor=%23FFFFFF&color=%23FFFFFF)
 ](https://doc.qt.io/qt-5/classes.html)
+<br>
+[![Static Badge](https://img.shields.io/badge/Qt%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3-1?logo=qt&logoColor=%2323C22A&logoSize=auto&labelColor=%23FFFFFF&color=%23FFFFFF)
+](https://doc.qt.io/qt-5/classes.html)
