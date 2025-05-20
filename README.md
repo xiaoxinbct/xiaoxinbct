@@ -1,3 +1,4 @@
 这里是我的主页!
 <br>
-[聆听破碎 - 博客园](https://www.cnblogs.com/xXzs0o0)
+[![Static Badge](https://img.shields.io/badge/%E8%81%86%E5%90%AC%E7%A0%B4%E7%A2%8E-1?logo=shadcnui&logoColor=%23000000&logoSize=auto&label=%E5%8D%9A%E5%AE%A2%E5%9B%AD&labelColor=%230063FF&color=%23F4FFEE)
+](https://www.cnblogs.com/xXzs0o0)
