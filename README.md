@@ -16,3 +16,5 @@
 ](https://doc.qt.io/qt-5/classes.html)
 <br>
 [![Static Badge](https://img.shields.io/badge/-1?style=flat&logo=shieldsdotio&logoColor=%FFFFFFFF&logoSize=auto&color=%FFFFFFFF)](https://shields.io/)
+[![Static Badge](https://img.shields.io/badge/Simple%20Icon-1?logo=simpleicons&logoColor=%23FFFFFF&logoSize=auto&labelColor=%23000000&color=%23FFFFFF)
+](https://simpleicons.org/?q=SimpleIcon)
