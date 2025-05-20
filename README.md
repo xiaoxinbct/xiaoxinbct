@@ -9,3 +9,5 @@
 [![Static Badge](https://img.shields.io/badge/AIchatOS-1?logo=openai&logoColor=%23000000&logoSize=auto&labelColor=%23FFFFFF&color=%23FFFFFF)
 ](https://cht18.aichatosc1.com/#/chat/1742462198710)
 <br>
+[![Static Badge](https://img.shields.io/badge/Linux%E6%95%99%E7%A8%8B-1?logo=linux&logoColor=%23000000&logoSize=auto&labelColor=%23FFFFFF&color=%23FFFFFF)
+](https://www.ywnz.com/linuxjc/5006.html)
